@@ -19,6 +19,7 @@ public record BoardPrincipal (
         String memo
 ) implements UserDetails {
 
+
     public static BoardPrincipal of(String username, String password, String email, String nickname, String memo) {
         Set<RoleType> roleTypes = Set.of(RoleType.USER);
 
