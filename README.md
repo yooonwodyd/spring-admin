@@ -17,7 +17,7 @@
 ### 기여자
 |윤재용|김민주|심규민|채준혁|
 |------|-------|-------|-------|
-|https://avatars.githubusercontent.com/u/103253736?v=4|https://avatars.githubusercontent.com/u/91789311?v=4|https://avatars.githubusercontent.com/u/49743742?v=4|https://avatars.githubusercontent.com/u/18231524?v=4|
+|(https://avatars.githubusercontent.com/u/103253736?v=4)|(https://avatars.githubusercontent.com/u/91789311?v=4)|(https://avatars.githubusercontent.com/u/49743742?v=4)|(https://avatars.githubusercontent.com/u/18231524?v=4)|
 |------|-------|-------|-------|
 
 
