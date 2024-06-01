@@ -3,8 +3,8 @@
 ![gaji_logo](https://github.com/KongGookSu/frontend/assets/103253736/d165b63c-4bb0-4ed8-acc2-436855c2ab1c)
 
 ## 목차
-- [가지도서관](https://github.com/yooonwodyd/spring-admin-#가지도서관)
-- [기여자](https://github.com/yooonwodyd/spring-admin-#기여자)
+- [가지도서관](#가지도서관)
+- [기여자](#기여자)
 
 ### 가지도서관
 
